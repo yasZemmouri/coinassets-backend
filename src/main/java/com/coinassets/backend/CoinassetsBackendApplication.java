@@ -13,6 +13,7 @@ public class CoinassetsBackendApplication {
 		
 		User yassine = new User(1 ,"Yassine@gmail.com", "admin");
 		System.out.println(yassine);
+		System.out.println(yassine);
 	 
 	}
 
